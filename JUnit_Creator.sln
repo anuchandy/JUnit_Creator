@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUnit_Creator", "JUnit_Creator\JUnit_Creator.csproj", "{D919AAFD-8E60-4E77-8948-7B120FC36186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D919AAFD-8E60-4E77-8948-7B120FC36186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D919AAFD-8E60-4E77-8948-7B120FC36186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D919AAFD-8E60-4E77-8948-7B120FC36186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D919AAFD-8E60-4E77-8948-7B120FC36186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D19B18DD-9BAA-4F25-A70D-469CC703E741}
+	EndGlobalSection
+EndGlobal
